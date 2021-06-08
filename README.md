@@ -1,6 +1,8 @@
-## Parser-node-js
+# Parser-node-js
 
-# For correct work without errors need to be installed: puppeteer
+## For correct work without errors need to be installed: 
+
+### puppeteer
 
 npm i puppeteer
 
